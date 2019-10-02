@@ -53,7 +53,7 @@
   "homepage": "https://github.com/comunica/sparqlee#readme",
   "devDependencies": {
     "@types/benchmark": "^1.0.30",
-    "@types/create-hash": "^1.2.0",
+    "@types/create-hash": "^1.2.1",
     "@types/jest": "^24.0.0",
     "@types/uuid": "^3.4.4",
     "asynciterator": "^2.0.0",
