@@ -343,12 +343,10 @@
   resolved "https://registry.yarnpkg.com/@types/benchmark/-/benchmark-1.0.31.tgz#2dd3514e93396f362ba5551a7c9ff0da405c1d38"
   integrity sha512-F6fVNOkGEkSdo/19yWYOwVKGvzbTeWkR/XQYBKtGBQ9oGRjBN9f/L4aJI4sDcVPJO58Y1CJZN8va9V2BhrZapA==
 
-"@types/create-hash@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@types/create-hash/-/create-hash-1.2.0.tgz#a30e091ce5904652dd6cee76d1b5e4ce6e883a68"
-  integrity sha512-tvo2dQ4TRKi0GYsblpWnhpJKR7Dvyyu+JdWhu4K5J8MKKONQfD9imAI/RIZn9brZXJ7n5DHxjwMpB4XOIVvGaw==
-  dependencies:
-    "@types/node" "*"
+"@types/create-hash@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@types/create-hash/-/create-hash-1.2.1.tgz#aef3a2c0dbed34167af76a580314fab128e7e39a"
+  integrity sha512-DxrIhWowUbxA6i52Kj4k2EEYqzWG2SJTJGxpFqDWd8xrJ1Rm9cpyvPeNIHWY1j8yibF/VMOx45iFL2uMIoqApQ==
 
 "@types/events@*":
   version "3.0.0"
